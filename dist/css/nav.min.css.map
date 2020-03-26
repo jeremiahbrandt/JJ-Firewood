@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,AAAC,CACD,SAAS,CAAE,MAAM,CACjB,SAAS,CAAE,IAAI,CAAG,AAEtB,AAAA,YAAY,AAAC,CACT,YAAY,CAAE,IAAI,CAAG",
-    "sources": [
-        "../../sass/global/nav.sass"
-    ],
-    "names": [],
-    "file": "nav.min.css"
-}
