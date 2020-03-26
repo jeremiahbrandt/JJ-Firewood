@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "nav.css",
+	"sources": [
+		"../sass/nav.sass"
+	],
+	"sourcesContent": [
+		"#nav {\n    max-width 2000px {}\n    font-size: 15px; }\n.mainNavLogo {\n    margin-right 20px {} }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EAED,SAAS,EAAE,IAAI;CAAG"
+}
