@@ -22,15 +22,15 @@ $(document).ready(function(){
 '				</a>' +
 '			</p>' +
 '				<p>' +
-'				<a href="mailto:delivery@jjfirewood.com">' +
+'				<a href="mailto:jeremiahjbrandt@outlook.com">' +
 '					<img src="images/iconmonstr/iconmonstr-email-2-240.png" alt="Email address">' +
-'					delivery@jjfirewood.com' +
+'					jeremiahjbrandt@outlook.com' +
 '				</a>' +
 '			</p>' +
 '			<p>' +
 '				<a href="https://goo.gl/maps/C8XHSEMXPqciJtmq9">' +
 '					<img src="images/iconmonstr/iconmonstr-location-3-240.png" alt="Google maps">' +
-'					36399 Hwy E Green Ridge, MO 65332' +
+'					Sedalia, MO 65301' +
 '				</a>' +
 '			</p>' +
 '			</div>' +

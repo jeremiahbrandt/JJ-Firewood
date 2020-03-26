@@ -13,13 +13,13 @@ function buildNav() {
         '<div class="collapse navbar-collapse" id="navbarSupportedContent">' +
         '		<ul class="navbar-nav mr-auto">' +
         '			<li class="nav-item">' +
-        '				<a id="homeLink" class="nav-link" href="index.php">Home</a>' +
+        '				<a id="homeLink" class="nav-link" href="index.html">Home</a>' +
         '			</li>' +
         '			<li class="nav-item">' +
-        '				<a id="orderLink" class="nav-link" href="order.php">Order</a>' +
+        '				<a id="orderLink" class="nav-link" href="order.html">Order</a>' +
         '			</li>' +
         '			<li class="nav-item">' +
-        '				<a id="contactLink" class="nav-link" href="contact.php">Contact Us</a>' +
+        '				<a id="contactLink" class="nav-link" href="contact.html">Contact Us</a>' +
         '			</li>' +
         '		</ul>' +
         '	</div>';
