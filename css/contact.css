@@ -74,6 +74,7 @@
   margin: 0px auto;
   margin-bottom: 60px;
   max-width: 1400px;
+  width: 90%;
 }
 
 #contactSend {
@@ -94,6 +95,12 @@
 }
 
 #message {
-  border: 1px solid #ced4da;
+  border: 1px solid #c73838;
+}
+
+.sentMessage {
+  font-size: 30px;
+  min-height: 500px;
+  text-align: center;
 }
 /*# sourceMappingURL=contact.css.map */

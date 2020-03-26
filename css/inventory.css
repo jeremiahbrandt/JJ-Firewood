@@ -58,7 +58,16 @@
 .creatorFooter {
   text-align: center;
   background-color: black;
-  color: red;
+  color: white;
+}
+
+.creatorFooter a {
+  color: white;
+}
+
+.creatorFooter a:hover {
+  color: #6d6767;
+  text-decoration: none;
 }
 
 .inventoryImage {
