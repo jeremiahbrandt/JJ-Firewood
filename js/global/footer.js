@@ -24,7 +24,7 @@ $(document).ready(function(){
 '				<p>' +
 '				<a href="mailto:jeremiahjbrandt@outlook.com">' +
 '					<img src="images/iconmonstr/iconmonstr-email-2-240.png" alt="Email address">' +
-'					jeremiahjbrandt@outlook.com' +
+'					contact@jeremiahbrandt.com' +
 '				</a>' +
 '			</p>' +
 '			<p>' +
