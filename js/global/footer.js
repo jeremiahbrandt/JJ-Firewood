@@ -52,9 +52,8 @@ $(document).ready(function(){
 '			<a href="#"><img src="images/iconmonstr/iconmonstr-twitter-1-240.png" alt="Twitter link"></a>' +
 '		</div>' +
 '		<div class="col-md text-center text-md-right">' +
-'			<p>© Copyright 2019 - 2020 JJ Firewood</p>' +
+'			<p class="copyright">© Copyright 2019 - 2020 JJ Firewood</p>' +
 '		</div>' +
 '	</div>' +
-'	</div>' +
-' <div class="creatorFooter">Website developed by <a href="https://jbrandtdesign.com">JBrandtDesign</a></div>'
+'	</div>'
 });
